@@ -1,7 +1,7 @@
 # French-Persian Kindle Dictionary
 Free French-Persian Kindle Dictionary. This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
-# دیکشنری سوئدی به فارسی کیندل
+# دیکشنری فرانسوی به فارسی کیندل
 **14 هزار کلمه و اصطلاح**
 
 **پشتیبانی از قابلیت inflection یا صرف اسامی و افعال**
